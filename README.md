@@ -2,7 +2,7 @@
 an overclocking guide for the rx7900xtx on linux systems using corectrl
 
 # step 1
-follow the install guide from https://gitlab.com/corectrl/corectrl to install corectrl to you linux system
+follow the install guide from https://gitlab.com/corectrl/corectrl to install corectrl to you linux system <br>
 also follow the setup guide to acces full controll of your gpu https://gitlab.com/corectrl/corectrl/-/wikis/Setup 
 
 # step 2
