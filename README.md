@@ -8,7 +8,7 @@ also follow the setup guide to acces full controll of your gpu https://gitlab.co
 # step 2
 downlode the 2 .ccpro files from my github repo
 and load the files
-![image](https://github.com/user-attachments/assets/ecda4fc7-6068-4eee-bb82-cb6099e1e1cf)
+![image](https://github.com/user-attachments/assets/8b3946e1-12ac-43e9-8844-299c66b121dc)
 then apply and save to your global profile
 
 # step 3
